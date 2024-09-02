@@ -10,4 +10,5 @@ Integrada - 1,0 pt.
 Prova Prática - 3,0 pt.
 Prova Teórica - 5,0 pt.
 
-
+Link para entrega das atividades:
+https://forms.gle/z67cqGHs2fxwV4AfA
