@@ -12,3 +12,5 @@ Prova Teórica - 5,0 pt.
 
 Link para entrega das atividades:
 https://forms.gle/z67cqGHs2fxwV4AfA
+
+A segunda atividade avaliativa prática ocorrerá nas aulas dos dias 11/11 e 12/11, a atividade terá apresentação no dia 18/11 e/ou dia 19/11.
