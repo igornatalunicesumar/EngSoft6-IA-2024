@@ -19,7 +19,9 @@ A atividade avaliativa 02, será apresentada dentro do seguinte link: https://ww
 Lembrando que a atividade terá apresentação, as apresentações ocorrerão nos dias 18/11 e 19/11.
 
 Links para ajudar na atividade 02:
+
 Pré-processamento:
 https://edisciplinas.usp.br/pluginfile.php/4052836/mod_resource/content/4/mineracaodadosbiologicos-parte3.pdf
+
 Algoritmos:
 https://www.linkedin.com/pulse/dominando-classifica%C3%A7%C3%A3o-com-biblioteca-scikit-learn-fl%C3%A1via-gaia-/
