@@ -14,3 +14,6 @@ Link para entrega das atividades:
 https://forms.gle/z67cqGHs2fxwV4AfA
 
 A segunda atividade avaliativa prática ocorrerá nas aulas dos dias 11/11 e 12/11, a atividade terá apresentação no dia 18/11 e/ou dia 19/11.
+
+A atividade avaliativa 02, será apresentada dentro do seguinte link: https://www.kaggle.com/t/c8ceb57d0278484e92999350ca753f46
+Lembrando que a atividade terá apresentação, as apresentações ocorrerão nos dias 18/11 e 19/11.
