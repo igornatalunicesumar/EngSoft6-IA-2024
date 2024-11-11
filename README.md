@@ -17,3 +17,9 @@ A segunda atividade avaliativa prática ocorrerá nas aulas dos dias 11/11 e 12/
 
 A atividade avaliativa 02, será apresentada dentro do seguinte link: https://www.kaggle.com/t/c8ceb57d0278484e92999350ca753f46
 Lembrando que a atividade terá apresentação, as apresentações ocorrerão nos dias 18/11 e 19/11.
+
+Links para ajudar na atividade 02:
+Pré-processamento:
+https://edisciplinas.usp.br/pluginfile.php/4052836/mod_resource/content/4/mineracaodadosbiologicos-parte3.pdf
+Algoritmos:
+https://www.linkedin.com/pulse/dominando-classifica%C3%A7%C3%A3o-com-biblioteca-scikit-learn-fl%C3%A1via-gaia-/
